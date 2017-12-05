@@ -1,0 +1,7 @@
+*.exe
+*.o
+*.swp
+*~
+src/Makefile
+src/tcptunnel
+tcptunnel
